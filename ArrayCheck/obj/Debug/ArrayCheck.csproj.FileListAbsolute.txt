@@ -1,0 +1,6 @@
+C:\Users\Ritzy_Rosabel\source\repos\ArrayCheck\ArrayCheck\bin\Debug\ArrayCheck.exe.config
+C:\Users\Ritzy_Rosabel\source\repos\ArrayCheck\ArrayCheck\bin\Debug\ArrayCheck.exe
+C:\Users\Ritzy_Rosabel\source\repos\ArrayCheck\ArrayCheck\bin\Debug\ArrayCheck.pdb
+C:\Users\Ritzy_Rosabel\source\repos\ArrayCheck\ArrayCheck\obj\Debug\ArrayCheck.csprojAssemblyReference.cache
+C:\Users\Ritzy_Rosabel\source\repos\ArrayCheck\ArrayCheck\obj\Debug\ArrayCheck.exe
+C:\Users\Ritzy_Rosabel\source\repos\ArrayCheck\ArrayCheck\obj\Debug\ArrayCheck.pdb
