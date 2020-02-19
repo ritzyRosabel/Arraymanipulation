@@ -13,7 +13,33 @@ namespace ArrayCheck
         static void Main(string[] args)
         {
         }
-       
+
+        public static string Sort(int[] myArray)
+        {
+
+            int swapCount = 0;
+
+            for (int i = myArray.Length - 1; i > 0; i--)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    if (myArray[j] < myArray[j + 1])
+                    {
+                        swapCount += swap(myArray, j, j + 1);
+                    }
+                }
+            }
+
+
+            for (int i = 0; i < myArray.Length; i++)
+            {
+                Console.WriteLine(myArray[i]);
+            }
+
+            return ("Number of swap ==> " + swapCount);
+        }
+
+
 
         static int swap(int[] array, int i, int j)
         {
